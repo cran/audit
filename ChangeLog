@@ -1,0 +1,3 @@
+
+ 0.1-1  bug fix by charlie@stat.umn.edu
+        changed a bunch of _ for assignment to <- in *.R and *.Rd
