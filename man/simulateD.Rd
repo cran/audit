@@ -36,11 +36,11 @@
   bound than that of Stringer's.
 }
 \references{
-  \emph{Statistical models and analysis in auditing}, Statistical
-  Science (1989)
-  \emph{A stepwise Bayes justification for some Stringer type bounds
-    in auditing problems} Technical report available at
-    http://www.stat.umn.edu/~glen/papers/
+   Meeden, G. and Sargent, D. (2007)
+   Some Bayesian methods for two auditing problems.
+   \emph{Communications in Statistics --- Theory and Methods},
+   \bold{36}, 2727--2740.
+   \doi{10.1080/03610920701386802}.
 }
 \examples{
 y <- rgamma(500,5)

@@ -31,9 +31,11 @@
   A vector of length R containing simulated values of T
 }
 \references{
-  \emph{Inference for a stratified finite population
-    with a dichotomous characteristic}, Technical report available at
-    http://www.stat.umn.edu/~glen/papers/
+   Meeden, G. and Sargent, D. (2007)
+   Some Bayesian methods for two auditing problems.
+   \emph{Communications in Statistics --- Theory and Methods},
+   \bold{36}, 2727--2740.
+   \doi{10.1080/03610920701386802}.
 }
 \examples{
 grd <- seq(0.0001,0.15,length = 11)
